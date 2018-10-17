@@ -83,7 +83,7 @@
 	</reporting>
 	<build>
 		<finalName>CorrosionRateCalculator</finalName>
-		<pluginManagement>
+		<!-- <pluginManagement>
 			<plugins>
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
@@ -93,7 +93,7 @@
 						<source>1.8</source>
 						<target>1.8</target>
 					</configuration>
-				</plugin>
+				</plugin> -->
 				
 				
             
@@ -119,7 +119,7 @@
             </executions>
         </plugin> -->
 				
-			</plugins>
-		</pluginManagement>
+			<!-- </plugins>
+		</pluginManagement> -->
 	</build>
 </project>
